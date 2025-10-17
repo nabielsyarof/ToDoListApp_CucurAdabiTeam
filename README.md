@@ -37,7 +37,7 @@ Data disimpan sementara di dalam memori menggunakan struktur **List di Dart**, s
 2. Dialog untuk menambah kegiatan baru  
 
 ### 🏠 Halaman Utama
-![Halaman Utama](screenshots/Dafrar_Dan_Form_Input.png)
+![Halaman Utama](screenshots/form_input.png)
 
 ### ➕ Tambah Item
 ![Tambah Item](screenshots/Hapus_List.png)
