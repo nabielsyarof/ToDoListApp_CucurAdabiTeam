@@ -41,6 +41,8 @@ Data disimpan sementara di dalam memori menggunakan struktur **List di Dart**, s
 
 ### ➕ Tambah Item
 ![Tambah Item](screenshots/Tambah_List.png)
+
+### 🗑️ Hapus Item
 ![Hapus Item](screenshots/Hapus_List.png)
 
 
